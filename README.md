@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/bhartin/ci-cd-test/_apis/build/status/nitinbhartinz.ci-cd-test?branchName=master)](https://dev.azure.com/bhartin/ci-cd-test/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
